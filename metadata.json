@@ -1,0 +1,6 @@
+{
+  "name": "Sele Electronics",
+  "description": "Premium electronics showcase representing Sele Electronics with interactive digital cart and fast WhatsApp instant ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
